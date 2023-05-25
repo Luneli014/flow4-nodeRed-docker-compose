@@ -78,7 +78,9 @@ Para que este flow funcione, debes cumplir con los siguientes requisitos previos
 5. Tu usuario de linux debe ser parte del grupo sudoers y del grupo docker
     - Puedes comprobar que tu usuario está en ambos grupos con el comando 
     
-        ```groups $USER```
+        ```
+        groups $USER
+        ```
 
     - En caso de que tu usuari no forme parte de dichos grupos, puedes arreglarlo con los siguientes comandos
         ``` 
@@ -119,7 +121,7 @@ Para ejecutar este flow, es necesario lo siguiente.
     docker start $(docker ps -a -q)
     ```
 
-2. Dirigirse a [localhost:1880](localhost:1880)
+2. Dirigirse a [localhost:1880](http://localhost:1880/)
 3. Importar el flow desde el repositorio
 4. Hacer clic en el boton Deploy
 
