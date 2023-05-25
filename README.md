@@ -141,13 +141,17 @@ Para que se dibujen las lineas en la gráfica historica, necesitas enviar al men
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![]()
+![](https://github.com/hugoescalpelo/flow4-nodeRed-docker-compose/blob/main/imagenes/Screenshot%20from%202023-05-25%2001-12-03.png)
+
+![](https://github.com/hugoescalpelo/flow4-nodeRed-docker-compose/blob/main/imagenes/Screenshot%20from%202023-05-25%2001-12-32.png)
+
+
 
 ## Evidencias
 
-![](https://github.com/hugoescalpelo/flow3-nodeRed-Docker-Compose/blob/main/imagenes/Screenshot%20from%202023-05-24%2020-41-21.png)
+ [TikTok](https://www.tiktok.com/@hugoescalpelo/video/7236974959220755717)
 
-![](https://github.com/hugoescalpelo/flow3-nodeRed-Docker-Compose/blob/main/imagenes/Screenshot%20from%202023-05-24%2020-42-30.png)
+
 
 # Notas
 - Este repositorio cuenta con las instrucciones para crear el flow pero también incluye el archivo JSON resultante, así que solo tienes que importarlo a nodeRed.
