@@ -149,7 +149,7 @@ A continuación puede verse una vista previa del resultado de este flow.
 
 ## Evidencias
 
- [TikTok](https://www.tiktok.com/@hugoescalpelo/video/7236974959220755717)
+ [TikTok]()
 
 
 
@@ -158,7 +158,7 @@ A continuación puede verse una vista previa del resultado de este flow.
 
 # Créditos
 
-Desarrollado por Hugo Escalpelo
-- [hugoescalpelo.com](https://hugoescalpelo.com/)
-- [Página en Facebook](https://www.facebook.com/Hugo-Escalpelo-Profesional-337708683840136)
-- [GitHub](https://github.com/hugoescalpelo)
+Desarrollado por Karen Luna
+
+- [Página en Instagram](https://www.instagram.com/karen.luna14/)
+- [GitHub](https://github.com/Luneli014)
